@@ -7,5 +7,8 @@ public class Test {
 	public int add(int x,int y) {
 		return x+y;
 	}
+	public void test() {
+		System.out.println("welcome to --12345");
+	}
 
 }
