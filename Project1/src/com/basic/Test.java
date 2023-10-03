@@ -8,7 +8,9 @@ public class Test {
 		return x+y;
 	}
 	public void test() {
-		System.out.println("welcome to --abcd");
+
+		System.out.println("welcome to --12345");
+
 	}
 
 }
